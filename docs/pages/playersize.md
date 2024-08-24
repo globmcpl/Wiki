@@ -10,8 +10,8 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Rozmiar postaci
 
-> Na serwerze dodaliśmy unikalną mechanikę zmniejszania swojej postaci.  
-> <br> Aby zmniejszyć rozmiar swojej postaci zjedz **świecące jagody (glow_berries)**, <br>aby powrócić do normalnego rozmiaru zjedz złotą **marchewkę (golden_carrot).**
+> Na serwerze dodaliśmy unikalną mechanikę <span class="blue">zmniejszania swojej postaci</span>.  
+> <br> Aby zmniejszyć rozmiar swojej postaci zjedz <span class="blue">świecące jagody </span>(glow_berries), <br>aby powrócić do normalnego rozmiaru zjedz  <span class="blue">złotą marchewkę </span>(golden_carrot).
 
 ![image](https://github.com/user-attachments/assets/2b3278cb-a62d-4f7d-8f73-6fffd8753d44)
 

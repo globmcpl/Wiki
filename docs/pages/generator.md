@@ -9,7 +9,8 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Świat Główny
 
-> Główny świat serwera został przebudowany. Ponad 100 nowych biomów, nowe struktury i dungeony.
+> Główny świat serwera został przebudowany. Ponad 
+<span class="blue">100</span> nowych biomów, nowe struktury i dungeony.
 
 ### Generator teranu
 
@@ -20,7 +21,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 <img src="https://github.com/user-attachments/assets/b93c5e38-63fb-4247-b8fe-e74cec9d5076" width="400px">
 
-[pełna lista biomów](https://github.com/globmcpl/Main/wiki/Biomy)
+[pełna lista biomów](/biomes)
 
 ### Struktury
 

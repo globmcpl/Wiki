@@ -37,18 +37,12 @@
 
 /* TEXT DECORATIONS */
 
-.bold {
+.blue {
     font-weight: bold;
-}
-
-.green {
-    color: #259646
-}
-
-.yellow {
-    color: #CF940A;
+    color: #3e9dc9
 }
 
 .red {
-    color: #E04F44;
+    font-weight: bold;
+    color: #c9653e
 }

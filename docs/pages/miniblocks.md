@@ -10,11 +10,11 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Mini Bloczki
 
-> Miniaturowe bloki dostępne na serwerze. Urocze prawda?
+> <span class="blue">Miniaturowe bloki</span>  dostępne na serwerze. Urocze prawda?
 
 ![image](https://github.com/user-attachments/assets/38ee6044-eb66-41ea-8d3c-7d4de3f77534")
 
 
-> Minaturowe bloki możesz stworzyć w stole kamieniarskim. <br> Wystarczy włożyć blok a zostanie zamieniony on na 8 minaturowych.
+> <span class="blue">Miniaturowe bloki</span> możesz stworzyć w <span class="blue">stole kamieniarskim</span>. <br> Wystarczy włożyć blok a zostanie zamieniony on na <span class="blue">8</span> minaturowych.
 
 ![image](https://github.com/user-attachments/assets/2e5ecbaf-995f-4da9-ba5d-7ee4f16a794b)

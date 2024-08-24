@@ -10,8 +10,8 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 # Ogniska
 
 
-> - Bedąc w pobliżu **ogniska** otrzymujesz efekt **regeneracji I** 
-> - Bedąc w pobliżu **ogniska dusz** otrzymujesz efekt **odporności na ogień**
+> - Bedąc w pobliżu <span class="blue">ogniska</span> otrzymujesz efekt  <span class="blue">regeneracji I</span>. 
+> - Bedąc w pobliżu  <span class="blue">ogniska dusz</span>  otrzymujesz efekt  <span class="blue">odporności na ogień</span>.
 
 ![image](https://github.com/user-attachments/assets/9025da70-3412-4208-8c42-6a15cdfae750)
 
