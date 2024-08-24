@@ -1,0 +1,54 @@
+:root {
+    /* THEME COLORS */
+    --theme-color: #2994db;
+    /* BASE PROPERTIES */
+    --base-font-family: 'Exo 2';
+    --base-background-color: #1a1919;
+    /* CONTENT */
+    --content-max-width: 80em;
+    /* LINKS */
+    --link-color: #2994db;
+    /* SIDEBAR */
+    --sidebar-background: rgba(70, 70, 70, 0.05);
+    /* SIDEBAR TOGGLE BUTTON */
+    --sidebar-toggle-background: rgba(5, 5, 5, 0);
+    --sidebar-toggle-offset-top: 15px;
+    --sidebar-toggle-offset-left: 15px;
+    /* NAVBAR */
+    --navbar-root-margin: 0 0 0 1.2em;
+}
+
+.app-name {
+    padding-bottom: 0.6em !important;
+    border-bottom: var(--hr-border)
+}
+
+.app-name-link {
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* IMG STYLING */
+
+.img-width-479 {
+    width: 479px;
+}
+
+/* TEXT DECORATIONS */
+
+.bold {
+    font-weight: bold;
+}
+
+.green {
+    color: #259646
+}
+
+.yellow {
+    color: #CF940A;
+}
+
+.red {
+    color: #E04F44;
+}
