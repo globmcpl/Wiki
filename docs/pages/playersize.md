@@ -13,6 +13,6 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 > Na serwerze dodano mechanikę <span class="blue">zmniejszania swojej postaci</span>.  
 > <br> Aby zmniejszyć rozmiar swojej postaci zjedz <span class="blue">świecące jagody </span>(glow_berries), <br>aby powrócić do normalnego rozmiaru zjedz  <span class="blue">złotą marchewkę </span>(golden_carrot).
 
-![image](../images/playersize/playersize.webp)
+![image](/pages/images/playersize/playersize.webp)
 
 

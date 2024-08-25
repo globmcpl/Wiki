@@ -13,16 +13,16 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 > Na serwerze informacja lokalizacji (x,y,z) pod <span class="blue">F3</span> została wyłączona.
 
-![image](../images/location/location_1.webp)
+![image](/pages/images/location/location_1.webp)
 
 > Użyj <span class="blue">kompasu</span>, aby sprawdzić swoją lokalizację.
 
-![image](../images/location/location_2.webp)
+![image](/pages/images/location/location_2.webp)
 
 > Użyj <span class="blue">kompasu powrotnego</span>, aby sprawdzić lokalizację twojej śmierci.
 
-![image](../images/location/location_3.webp)
+![image](/pages/images/location/location_3.webp)
 
 > Użyj <span class="blue">zegarka</span>, aby sprawdzić aktualną godzinę na serwerze.
 
-![image](../images/location/location_4.webp)
+![image](/pages/images/location/location_4.webp)

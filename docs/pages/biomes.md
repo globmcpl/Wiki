@@ -13,18 +13,18 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ## Alpha Islands
 <p>Wyspy Alfa (ang. Alpha Islands)</p>
-<img src="../images/biomes/alpha_islands.webp" width="400px">
+<img src="/pages/images/biomes/alpha_islands.webp" width="400px">
 
 
 ## Winter Alpha Islands
 <p>Lodowe Wyspy Alfa (ang. Winter Alpha Islands)</p>
-<img src="../images/biomes/winter_alpha_islands.webp" width="400px">
+<img src="/pages/images/biomes/winter_alpha_islands.webp" width="400px">
 
 
 ## Alpine Grove
 
 <p>Alpejski Gaj (ang. Alpine Grove)</p>
-<img src="../images/biomes/alpine_grove.webp" width="400px">
+<img src="/pages/images/biomes/alpine_grove.webp" width="400px">
 
 
 ## Alpine Grove
@@ -34,7 +34,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ## Alphine Highlands
 <p>Alpejskie Wyżyny (ang. Alphine Highlands)</p>
-<img src="../images/biomes/alphine_highlands.webp" width="400px">
+<img src="/pages/images/biomes/alphine_highlands.webp" width="400px">
 
 
 ## Amethyst Canyon

@@ -12,9 +12,9 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 > <span class="blue">Miniaturowe bloki</span>  dostępne na serwerze. Urocze prawda?
 
-![image](../images/miniblocks/mb_1.webp)
+![image](/pages/images/miniblocks/mb_1.webp)
 
 
 > <span class="blue">Miniaturowe bloki</span> możesz stworzyć w <span class="blue">stole kamieniarskim</span>. <br> Wystarczy włożyć blok a zostanie zamieniony on na <span class="blue">8</span> minaturowych.
 
-![image](../images/miniblocks/mb_2.webp)
+![image](/pages/images/miniblocks/mb_2.webp)

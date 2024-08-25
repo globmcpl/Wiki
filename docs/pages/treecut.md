@@ -13,5 +13,5 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 > Podczas ścinania bloki drewna które zostaną ścięte zostają podświetlone.<br>
 > Przystrzymaj  <span class="blue">SHIFT </span> aby ściąć drzewo. <br> Możesz wyłaczyć tą opcje komendą  <span class="blue">/wycinka</span>.
 
-![image](../images/treecut/treecut.webp)
+![image](/pages/images/treecut/treecut.webp)
 

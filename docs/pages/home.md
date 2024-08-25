@@ -1,5 +1,5 @@
 <a> 
-  <img src="../images/home/logo.webp" width=120 alt="logo"/> 
+  <img src="/pages/images/home/logo.webp" width=120 alt="logo"/> 
 </a>
 
 Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na serwerze<br> Na naszym serwerze znajdziesz wiele innowacyjnych mechanik, które zostały starannie zaprojektowane, aby idealnie wpasować się w świat minecrafta. <br>Miłej zabawy!
