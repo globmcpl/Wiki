@@ -8,7 +8,6 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 </style>
 
 
-
 # Lokalizacja i Czas
 
 > Na serwerze informacja lokalizacji (x,y,z) pod <span class="blue">F3</span> została wyłączona.

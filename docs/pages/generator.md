@@ -14,22 +14,17 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ### Generator teranu
 
-
-<img src="/pages/images/generator/world_generator_1.webp" width="400px">
-
-<img src="/pages/images/generator/world_generator_2.webp" width="400px">
-
-<img src="/pages/images/generator/world_generator_3.webp" width="400px">
+![image](/pages/images/generator/world_generator_1.webp)
+![image](/pages/images/generator/world_generator_2.webp)
+![image](/pages/images/generator/world_generator_3.webp)
 
 [pełna lista biomów](/biomes)
 
 ### Struktury
 
-<img src="/pages/images/generator/world_structure_1.webp" width="400px">
-
-<img src="/pages/images/generator/world_structure_2.webp" width="400px">
-
-<img src="/pages/images/generator/world_structure_3.webp" width="400px">
+![image](/pages/images/generator/world_structure_1.webp)
+![image](/pages/images/generator/world_structure_2.webp)
+![image](/pages/images/generator/world_structure_3.webp)
 
 # Nether
 
@@ -37,15 +32,12 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ### Generator teranu
 
-<img src="/pages/images/generator/nether_generator_1.webp" width="400px">
-
-<img src="/pages/images/generator/nether_generator_2.webp" width="400px">
-
-<img src="/pages/images/generator/nether_generator_3.webp" width="400px">
+![image](/pages/images/generator/nether_generator_1.webp)
+![image](/pages/images/generator/nether_generator_2.webp)
+![image](/pages/images/generator/nether_generator_3.webp)
 
 
 ### Struktury
 
-<img src="/pages/images/generator/nether_structure_1.webp" width="400px">
-
-<img src="/pages/images/generator/nether_structure_2.webp" width="400px">
+![image](/pages/images/generator/nether_structure_1.webp)
+![image](/pages/images/generator/nether_structure_2.webp)
