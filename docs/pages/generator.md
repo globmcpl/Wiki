@@ -15,16 +15,22 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 ### Generator teranu
 
 ![image](/pages/images/generator/world_generator_1.webp)
+![image](/pages/images/generator/world_generator_4.webp)
 ![image](/pages/images/generator/world_generator_2.webp)
 ![image](/pages/images/generator/world_generator_3.webp)
+![image](/pages/images/generator/world_generator_6.webp)
+![image](/pages/images/generator/world_generator_7.webp)
+![image](/pages/images/generator/world_generator_5.webp)
 
 [pełna lista biomów](/biomes)
 
 ### Struktury
 
 ![image](/pages/images/generator/world_structure_1.webp)
+![image](/pages/images/generator/world_structure_4.webp)
 ![image](/pages/images/generator/world_structure_2.webp)
 ![image](/pages/images/generator/world_structure_3.webp)
+![image](/pages/images/generator/world_structure_5.webp)
 
 # Nether
 
