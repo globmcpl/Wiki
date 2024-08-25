@@ -9,7 +9,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Enchanty
 
-> Aby urozmaicić rozgrywkę dodaliśmy sporo nowych enchantów. <br> Poniżej znajdziesz wszystkie nowe enchanty wraz z opisem ich działania.
+> Aby urozmaicić rozgrywkę dodano ponad <span class="blue">140</span> nowych enchantów. <br> Poniżej znajdziesz wszystkie nowe enchanty wraz z opisem ich działania.
 
 Nazwa | Opis  | Max poziom | Dotyczy | Niekompatybilne z  | Jak zdobyć | 
 --- | --- | --- |--- | --- | --- |
@@ -34,7 +34,7 @@ Ice Alloy | Zamraża atakujące jednostki | 3 | Napierśniki | Bulletproof, Fire
 Darkness Alloy| Daje atakującym jednostkom efekt ciemności | 3 | Napierśniki  | Bulletproof, Fire Alloy, Ice Alloy, Creeper Alloy, Shulker Shell| Stół do zaklinania, na losowych łupach, Ze skarbów |
 Shulker Shell | Fajerwerki, Trydenty, (Widmowe) Strzały wystrzelone w użytkownika spadają na ziemię, gdy użytkownik stoi nieruchomo. | 1 | Napierśniki  | Bulletproof, Fire Alloy, Ice Alloy, Darkness Alloy, Creeper Alloy | Ze skarbów |
 Bunny Hop | Pozwala skakać wyżej | 3 | Nogawice | Enderscape, Swift Sneak | Stół do zaklinania, Ze skarbów |
-End Speed| Zwiększa prędkość poruszania się na końcu | 3 | Buty | Invisibility Cloak, Soul Speed, Sonic, Sand Speed | Ze skarbów |
+End Speed| Zwiększa prędkość poruszania się w endzie | 3 | Buty | Invisibility Cloak, Soul Speed, Sonic, Sand Speed | Ze skarbów |
 Sand Speed | Zwiększa prędkość ruchu na piasku | 3 | Buty | Invisibility Cloak, Soul Speed, End Speed, Sonic | Ze skarbów  |
 Crispbread| Efekt saturacji w trakcie trzymania | 3 | Tarcza | Cleansing, Rejuvenation, Hardened, Ominous Healing | Ze skarbów |
 Crop Dance | Sneak-Dance, aby pozwolić uprawom wokół ciebie rosnąć | 1 | Buty | Magma Walker, Summer Walker, Grass Walker, Electric Walker, Frost Walker, Depth Strider | Ze skarbów, Non Treasure|

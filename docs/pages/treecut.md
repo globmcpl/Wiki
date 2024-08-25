@@ -10,8 +10,8 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 # Wycinka Drzew
 
 
-> Na naszym serwerze nawet ścinanie drzew jest przyjemne. <br> Podczas ścinania bloki drewna które zostaną ścięte zostają podświetlone.<br>
+> Podczas ścinania bloki drewna które zostaną ścięte zostają podświetlone.<br>
 > Przystrzymaj  <span class="blue">SHIFT </span> aby ściąć drzewo. <br> Możesz wyłaczyć tą opcje komendą  <span class="blue">/wycinka</span>.
 
-![image](https://github.com/user-attachments/assets/60501a34-e5c4-47e0-8442-8f508e8710b3)
+![image](../images/treecut/treecut.webp)
 

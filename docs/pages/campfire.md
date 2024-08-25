@@ -13,5 +13,5 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 > - Bedąc w pobliżu <span class="blue">ogniska</span> otrzymujesz efekt  <span class="blue">regeneracji I</span>. 
 > - Bedąc w pobliżu  <span class="blue">ogniska dusz</span>  otrzymujesz efekt  <span class="blue">odporności na ogień</span>.
 
-![image](https://github.com/user-attachments/assets/9025da70-3412-4208-8c42-6a15cdfae750)
+![image](../images/campfire/campfire.webp)
 

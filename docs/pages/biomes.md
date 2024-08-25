@@ -9,22 +9,22 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Biomy
 
-> Na naszym serwerze znajdziesz ponad 100 nowych biomów! <br> Poniżej znajduje się lista. Bezpiecznej podróży!
+> Na naszym serwerze znajdziesz ponad <span class="blue">100</span> nowych biomów! <br> Poniżej znajduje się lista. <span class="blue">Bezpiecznej podróży!</span>
 
 ## Alpha Islands
 <p>Wyspy Alfa (ang. Alpha Islands)</p>
-<img src="https://github.com/user-attachments/assets/1f3814ec-13fd-418a-9ed3-501d6ed35861" width="400px">
+<img src="../images/biomes/alpha_islands.webp" width="400px">
 
 
 ## Winter Alpha Islands
 <p>Lodowe Wyspy Alfa (ang. Winter Alpha Islands)</p>
-<img src="https://github.com/user-attachments/assets/372fdeed-ffb0-4a45-b80b-71bacee36e1b" width="400px">
+<img src="../images/biomes/winter_alpha_islands.webp" width="400px">
 
 
 ## Alpine Grove
 
 <p>Alpejski Gaj (ang. Alpine Grove)</p>
-<img src="https://github.com/user-attachments/assets/a1006f3c-fa82-438a-b146-b24b1bbccad6" width="400px">
+<img src="../images/biomes/alpine_grove.webp" width="400px">
 
 
 ## Alpine Grove
@@ -34,7 +34,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ## Alphine Highlands
 <p>Alpejskie Wyżyny (ang. Alphine Highlands)</p>
-<img src="https://github.com/user-attachments/assets/94f4c871-91c1-46ba-8a3d-7706e6c040e3" width="400px">
+<img src="../images/biomes/alphine_highlands.webp" width="400px">
 
 
 ## Amethyst Canyon

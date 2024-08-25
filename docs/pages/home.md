@@ -1,21 +1,18 @@
-
-<a href="tps://github.com/GlobMc-pl/Server/wiki/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/user-attachments/assets/fdeb2dbf-39ed-4b4a-8521-769f38ff2514" width=120" alt="logo"/> 
+<a> 
+  <img src="../images/home/logo.webp" width=120 alt="logo"/> 
 </a>
 
+Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na serwerze<br> Na naszym serwerze znajdziesz wiele innowacyjnych mechanik, które zostały starannie zaprojektowane, aby idealnie wpasować się w świat minecrafta. <br>Miłej zabawy!
 
-Wikipedia została stworzona by ułatwić nowym graczom rozpoczęcie rozgrywki.<br>
-Na naszym serwerze znajdziesz dużo nowych mechanik, zostały one stworzone tak by pasowały do gry minecraft.
 
-### Wiki 
-- [Generator](/generator)
-- [Biomy](/biomes)
-- [Lokalizacja i czas](/location)
-- [Przedmioty](/items)
-- [Mini bloczki](/miniblocks)
-- [Rozmiar postaci](/playersize)
-- [Enchanty](/enchants)
-- [Jedwabny dotyk](/silktouch)
-- [Ogniska](/campfire)
-- [Wycinka drzew](/treecut)
-
+### Zawartość
+- 🗺️ [Generator](/generator) - Nowy generator terenu i struktury.
+- 🏜️ [Biomy](/biomes) - Lista wszystkich biomów dostępnych na serwerze.
+- 🧭 [Lokalizacja i czas](/location) - Zmieniona mechanika koordynatów.
+- 🏺 [Przedmioty](/items) - Lista wszystkich zmian dotyczących przedmiotów.
+- 🗿 [Mini bloczki](/miniblocks) - Nowe małe bloczki.
+- 🔍 [Rozmiar postaci](/playersize) - Mechanika zmiany wielkości postaci.
+- 📜 [Enchanty](/enchants) - Lista nowych enchantów dostępnych na serwerze.
+- ⛏️ [Jedwabny dotyk](/silktouch) - Ulepszona mechanika jedwabnego dotyku.
+- 🏕️ [Ogniska](/campfire) - Nowa mechanika ognisk.
+- 🪓 [Wycinka drzew](/treecut) - Nowa mechanika ścinania drzew.

@@ -10,6 +10,6 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 # Jedwabny Dotyk
 
 
-> Ulepszyliśmy enchant <span class="blue">Jedwabny dotyk</span> (silk touch). Od teraz możesz wykopać <span class="blue">blok spawneru</span> oraz <span class="blue">blok kiełkującego ametystu</span>. <br> Pozwala to na łatwiejsze tworzenie farm w dowolnych miejscach.
+> Ulepszono enchant <span class="blue">Jedwabny dotyk</span>. Od teraz możesz wykopać <span class="blue">blok spawneru</span> oraz <span class="blue">blok kiełkującego ametystu</span>. <br> Pozwala to na łatwiejsze tworzenie farm w dowolnych miejscach.
 
-![image](https://github.com/user-attachments/assets/07d32f69-815b-4d6b-a1ea-34e6f70a1fe6)
+![image](../images/silk/silk_1.webp)
