@@ -15,11 +15,12 @@ Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na
 ### Zawartość
 - 🗺️ [Generator](/generator) - Nowy generator terenu i struktury.
 - 🏜️ [Biomy](/biomes) - Lista wszystkich biomów dostępnych na serwerze.
-- 🧭 [Lokalizacja i czas](/location) - Zmieniona mechanika koordynatów.
+- 🧭 [Lokalizacja i Czas](/location) - Zmieniona mechanika koordynatów.
 - 🏺 [Przedmioty](/items) - Lista wszystkich zmian dotyczących przedmiotów.
-- 🗿 [Mini bloczki](/miniblocks) - Nowe małe bloczki.
-- 🔍 [Rozmiar postaci](/playersize) - Mechanika zmiany wielkości postaci.
+- 🗿 [Mini Bloczki](/miniblocks) - Nowe małe bloczki.
+- 🔍 [Rozmiar Postaci](/playersize) - Mechanika zmiany wielkości postaci.
 - 📜 [Enchanty](/enchants) - Lista nowych enchantów dostępnych na serwerze.
-- ⛏️ [Jedwabny dotyk](/silktouch) - Ulepszona mechanika jedwabnego dotyku.
+- ⛏️ [Jedwabny Dotyk](/silktouch) - Ulepszona mechanika jedwabnego dotyku.
 - 🏕️ [Ogniska](/campfire) - Nowa mechanika ognisk.
-- 🪓 [Wycinka drzew](/treecut) - Nowa mechanika ścinania drzew.
+- 🪓 [Wycinka Drzew](/treecut) - Nowa mechanika ścinania drzew.
+- 🕰️ [Odłamki Czasu](/timeshard) - Waluta otrzymywana za czas spędzony na serwerze.
