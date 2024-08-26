@@ -22,7 +22,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 ![image](/pages/images/generator/world_generator_7.webp)
 ![image](/pages/images/generator/world_generator_5.webp)
 
-[pełna lista biomów](/biomes)
+[Pełna lista biomów](/biomes)
 
 ### Struktury
 
