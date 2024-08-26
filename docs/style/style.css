@@ -1,13 +1,13 @@
 :root {
     /* THEME COLORS */
-    --theme-color: #2994db;
+    --theme-color: #28bae7;
     /* BASE PROPERTIES */
     --base-font-family: 'Exo 2';
     --base-background-color: #1a1919;
     /* CONTENT */
     --content-max-width: 80em;
     /* LINKS */
-    --link-color: #2994db;
+    --link-color: #2584c4;
     /* SIDEBAR */
     --sidebar-background: rgba(70, 70, 70, 0.05);
     /* SIDEBAR TOGGLE BUTTON */
