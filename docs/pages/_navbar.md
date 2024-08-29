@@ -10,4 +10,5 @@
     }
 </style>
 
+- <a href="https://globmc.pl/">STRONA GŁÓWNA</a>
 - <a href="#/update">AKTUALIZACJE</a>
