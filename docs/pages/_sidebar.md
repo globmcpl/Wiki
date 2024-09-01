@@ -1,7 +1,7 @@
 - [Wstęp](/)
 - [Generator Świata](/generator.md)
 - [Biomy](/biomes.md)
-- [Battle Towers](/battletower.md)
+- [Battle Tower](/battletower.md)
 - [Lokalizacja i Czas](/location.md)
 - [Przedmioty](/items.md)
 - [Mini Bloczki](/miniblocks.md)
