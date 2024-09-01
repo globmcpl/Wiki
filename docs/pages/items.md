@@ -43,6 +43,13 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ![image](/pages/images/items/fire_charge.webp)
 
+# Ogniska
+
+
+> - Bedąc w pobliżu <span class="blue">ogniska</span> otrzymujesz efekt  <span class="blue">regeneracji I</span>. 
+> - Bedąc w pobliżu  <span class="blue">ogniska dusz</span>  otrzymujesz efekt  <span class="blue">odporności na ogień</span>.
+
+![image](/pages/images/items/campfire.webp)
 
 
 

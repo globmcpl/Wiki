@@ -7,6 +7,5 @@
 - [Rozmiar Postaci](/playersize.md)
 - [Enchanty](/enchants.md)
 - [Jedwabny Dotyk](/silktouch.md)
-- [Ogniska](/campfire.md)
 - [Wycinka Drzew](/treecut.md)
 - [Odłamki Czasu](/timeshard.md)

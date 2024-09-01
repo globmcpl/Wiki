@@ -9,8 +9,10 @@
 
 # Aktualizacje
 
-*Ostatnia aktualizacja: 26.08.2024*
+*Ostatnia aktualizacja: 01.09.2024*
 
 ---
+*v1.0 - 01.09.2024*
 
-Tutaj będą pojawiać się logi zmian.
+- Przeniesiono oginska do kategorii **przedmioty**.
+- Poprawiono opisy enchantów aby były bardziej zrozumiałe.
