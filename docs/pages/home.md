@@ -21,6 +21,5 @@ Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na
 - 🔍 [Rozmiar Postaci](/playersize) - Mechanika zmiany wielkości postaci.
 - 📜 [Enchanty](/enchants) - Lista nowych enchantów dostępnych na serwerze.
 - ⛏️ [Jedwabny Dotyk](/silktouch) - Ulepszona mechanika jedwabnego dotyku.
-- 🏕️ [Ogniska](/campfire) - Nowa mechanika ognisk.
 - 🪓 [Wycinka Drzew](/treecut) - Nowa mechanika ścinania drzew.
 - 🕰️ [Odłamki Czasu](/timeshard) - Waluta otrzymywana za czas spędzony na serwerze.
