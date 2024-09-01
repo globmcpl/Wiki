@@ -15,6 +15,7 @@ Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na
 ### Zawartość
 - 🗺️ [Generator](/generator) - Nowy generator terenu i struktury.
 - 🏜️ [Biomy](/biomes) - Lista wszystkich biomów dostępnych na serwerze.
+- 🏰 [Battle Tower](/battletower) - Epicka struktura inspirowana modem.
 - 🧭 [Lokalizacja i Czas](/location) - Zmieniona mechanika koordynatów.
 - 🏺 [Przedmioty](/items) - Lista wszystkich zmian dotyczących przedmiotów.
 - 🗿 [Mini Bloczki](/miniblocks) - Nowe małe bloczki.

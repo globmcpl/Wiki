@@ -12,6 +12,12 @@
 *Ostatnia aktualizacja: 01.09.2024*
 
 ---
+*v1.1 - 02.09.2024*
+
+- Dodano sekcję o strukturze **Battle Tower**.
+
+---
+
 *v1.0 - 01.09.2024*
 
 - Przeniesiono oginska do kategorii **przedmioty**.

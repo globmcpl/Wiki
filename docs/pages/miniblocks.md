@@ -15,6 +15,8 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 ![image](/pages/images/miniblocks/mb_1.webp)
 
 
+## Tworzenie
+
 > <span class="blue">Miniaturowe bloki</span> możesz stworzyć w <span class="blue">stole kamieniarskim</span>. <br> Wystarczy włożyć blok a zostanie zamieniony on na <span class="blue">8</span> minaturowych.
 
 ![image](/pages/images/miniblocks/mb_2.webp)

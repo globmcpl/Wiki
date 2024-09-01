@@ -9,12 +9,13 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Odłamki Czasu
 
-
 > Za czas spędzony na serwerze gracz otrzymuję <span class="blue">odłamki czasu </span>. <br>
 > <span class="blue">Minuta</span> gry na serwerze równa się <span class="blue">jednemu odłamkowi czasu</span>.
 
 ![image](/pages/images/timeshard/scoreboard.webp)
 
+
+## Władca Czasu
 > Odłamki możesz wymienić na specjalne przedmioty u <span class="blue">Władcy Czasu</span> znajdującego się na <span class="blue">/warp czas</span> .
 
 ![image](/pages/images/timeshard/timeshop.webp)

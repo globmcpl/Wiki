@@ -12,6 +12,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 > Na serwerze informacja lokalizacji (x,y,z) pod <span class="blue">F3</span> została wyłączona.
 
+## Kordy
 ![image](/pages/images/location/location_1.webp)
 
 > Użyj <span class="blue">kompasu</span>, aby sprawdzić swoją lokalizację.
@@ -22,6 +23,8 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ![image](/pages/images/location/location_3.webp)
 
+
+## Zegarek
 > Użyj <span class="blue">zegarka</span>, aby sprawdzić aktualną godzinę na serwerze.
 
 ![image](/pages/images/location/location_4.webp)
