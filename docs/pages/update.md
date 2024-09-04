@@ -9,9 +9,14 @@
 
 # Aktualizacje
 
-*Ostatnia aktualizacja: 01.09.2024*
+---
+*v1.2 - 04.09.2024*
+
+- Poprawiono literówki.
+- Dodano ostrzeżenia przy zbugowanych enchantach.
 
 ---
+
 *v1.1 - 02.09.2024*
 
 - Dodano sekcję o strukturze **Battle Tower**.

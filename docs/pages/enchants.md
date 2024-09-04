@@ -9,7 +9,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Enchanty
 
-> Aby urozmaicić rozgrywkę dodano ponad <span class="blue">140</span> nowych enchantów. <br> Poniżej znajdziesz wszystkie nowe enchanty wraz z opisem ich działania.
+> Aby urozmaicić rozgrywkę dodano ponad <span class="blue">140</span> nowych enchantów. <br> Poniżej znajdziesz wszystkie nowe enchanty wraz z opisem ich działania. <br><br><span class="red">Uwaga!</span> **Niektóre enchanty mogą działać nieprawidłowo lub niektórych może brakować.**<br> Serwer jest w tracie **BETA** testów i staramy sie na bieżąco naprawiać błędy. 
 
 Nazwa | Opis  | Max poziom | Dotyczy | Niekompatybilne z  | Jak zdobyć | 
 --- | --- | --- |--- | --- | --- |
@@ -28,7 +28,7 @@ Day Protection| Dwukrotnie większa ochrona przed obrażeniami niż w przypadku 
 Night Protection| Dwukrotnie większa ochrona przed obrażeniami niż w przypadku zaklęcia ochrona, ale działa tylko w nocy.| 4 | Dowolny pancerz | Night Protection, Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection|  	Night Protection, Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
 Nether Protection | Dwukrotnie większa ochrona przed obrażeniami niż w przypadku zaklęcia ochrona, ale działa tylko w netherze. | 4 | Dowolny pancerz | Night Protection, Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection|  	Night Protection, Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
 End Protection |  Dwukrotnie większa ochrona przed obrażeniami niż w przypadku zaklęcia ochrona, ale działa tylko w endzie. | 4 | Dowolny pancerz | Night Protection, Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection|  Night Protection, Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection | Stół do zaklinania, na losowych łupach, ze skarbów
-Creeper Alloy | Powoduje eksplozję po trafieniu.| 3 | Napierśniki |  Bulletproof, Fire Alloy, Ice Alloy, Darkness Alloy, Shulker Shell | Stół do zaklinania, na losowych łupach, Ze skarbów
+Creeper Alloy | Powoduje eksplozję po trafieniu. **<br><br><span class="red">Uwaga!</span> Ten enchant nie działa prawidłowo! Wybuch zadaje obrażenia noszącemu. Zalecamy o nieużywanie go.**| 3 | Napierśniki |  Bulletproof, Fire Alloy, Ice Alloy, Darkness Alloy, Shulker Shell | Stół do zaklinania, na losowych łupach, Ze skarbów
 Fire Alloy | Zapala atakującego. | 3 | Napierśniki | Bulletproof, Fire Alloy, Creeper Alloy, Darkness Alloy, Shulker Shell| Stół do zaklinania, na losowych łupach, Ze skarbów |
 Ice Alloy | Zamraża atakującego. | 3 | Napierśniki | Bulletproof, Fire Alloy, Ice Alloy, Creeper Alloy, Shulker Shell | Stół do zaklinania, na losowych łupach, Ze skarbów |
 Darkness Alloy| Atakującym nadaje efekt ciemności. | 3 | Napierśniki  | Bulletproof, Fire Alloy, Ice Alloy, Creeper Alloy, Shulker Shell| Stół do zaklinania, na losowych łupach, Ze skarbów |
@@ -86,7 +86,7 @@ Sonic | Zwiększa prędkość chodzenia. | 3 | Buty | Invisibility Cloak, Soul S
 Crab Claw | Zwiększa zasięg interakcji blok/cel *(np. większy zasięg niszczenia bloków)*.| 3 | Dowolne narzędzie | Curse of Reach | Na losowych łupach,  On Traded Equipment, handel z villagerami|
 Growth | Zwiększa wielkość gracza i wysokość kroku. | 5 | Napierśniki | Shrinkage | Na losowych łupach,  On Traded Equipment, handel z villagerami |
 Shrinkage | Zmniejsza wielkość gracza i wysokość kroku. | 5 | Napierśniki | Growth | On Traded Equipment, handel z villagerami |
-Pegasus | Jednostki zaczynają latać do 30 bloków powyżej poziomu Y, na którym zostały zamontowane. Zsiadanie zapewnia powolne opadanie, aby bezpiecznie wylądować | 1 | Buty | Depth Strider, Feather Falling | Ze skarbów, Non Tresaure |
+Pegasus | Pozwala latać na wierzchowcach (np. koń). Po wejściu na wierzchowca on zaczyna się unosić. Wierzchowiec może się unieść maksymalnie 30 kartek od poziomu na którym gracz wsiądzie na niego.**<br><br><span class="red">Uwaga!</span> Ten enchant nie działa prawidłowo! Gracz podczas latania zostaje wyrzucony za fly. Zalecamy o nieużywanie go.** | 1 | Buty | Depth Strider, Feather Falling | Ze skarbów, Non Tresaure |
 Red Moon|  Zwiększa obrażenia od ataku, ale zmniejsza pancerz. | 3 | Dowolne zaklęcie | Night Protection, Nether Protection, Day Protection, End Protection, Protection, Fire Protection, Blast Protection, Projectile Protection | Na losowych łupach, Ze skarbów |
 Swift Slash| Zwiększa szybkość ataku.| 5 | Dowolna broń | Bane of Netherborn, Bane of Raiders, Bane of Bosses, Sharpness, Smite, Bane of Arthropods, Impaling, Density, Breach | Na losowych łupach, On Traded Equipment, Ze skarbów |
 Moonwalk | Zmniejsza grawitację. | 3 | Elytra | - | Handel z villagerami, Ze skarbów  |

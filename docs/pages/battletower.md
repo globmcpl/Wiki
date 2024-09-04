@@ -21,6 +21,6 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ## Strażnik Wieży
 
-> Na najwyższym piętrze znajduję się <span class="blue">Strażnik Wieży</span>. <br> <span class="red">Uwaga!</span> Strażnik jest bardzo silny, pokonanie go bez mocny przedmiotów wymaga sprytu.
+> Na najwyższym piętrze znajduję się <span class="blue">Strażnik Wieży</span>. <br> <span class="red">Uwaga!</span> Strażnik jest bardzo silny, pokonanie go bez mocnych przedmiotów wymaga sprytu.
 
 ![image](/pages/images/battletowers/bt_boss.webp)
