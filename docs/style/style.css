@@ -1,21 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap'); /*font-family: 'Inter', sans-serif;*/
+
 :root {
     /* THEME COLORS */
     --theme-color: #28bae7;
     /* BASE PROPERTIES */
-    --base-font-family: 'Exo 2';
+    --base-font-family: 'Inter', sans-serif;
     --base-background-color: #1a1919;
     /* CONTENT */
-    --content-max-width: 80em;
+    --content-max-width: 84em;
     /* LINKS */
     --link-color: #2584c4;
     /* SIDEBAR */
     --sidebar-background: rgba(70, 70, 70, 0.05);
     /* SIDEBAR TOGGLE BUTTON */
     --sidebar-toggle-background: rgba(5, 5, 5, 0);
-    --sidebar-toggle-offset-top: 15px;
+    --sidebar-toggle-offset-top: 20px;
     --sidebar-toggle-offset-left: 15px;
     /* NAVBAR */
-    --navbar-root-margin: 0 0 0 1.2em;
+    --navbar-root-margin: 0 0 0 1.6em;
 }
 
 .app-name {
@@ -24,7 +26,7 @@
 }
 
 .app-name-link {
-    font-size: 28px;
+    font-size: 26px;
     font-weight: bold;
     letter-spacing: 1px;
 }
@@ -44,5 +46,5 @@
 
 .red {
     font-weight: bold;
-    color: #c9653e
+    color: #d45f31
 }

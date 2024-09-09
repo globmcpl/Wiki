@@ -1,11 +1,12 @@
 <style>
 img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
-    max-width: 32%;
+    max-width: 35%;
     margin: 0 8px 4px 0;
     box-shadow: 0 0 6px 4px rgba(0, 0, 0, .1);
     border-radius: 10px;
 }
 </style>
+
 
 # Enchanty
 
