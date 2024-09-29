@@ -10,21 +10,22 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 # Lokalizacja i Czas
 
-> Na serwerze informacja lokalizacji (x,y,z) pod <span class="blue">F3</span> została wyłączona.
 
-## Kordy
-![image](/pages/images/location/location_1.webp)
-
-> Użyj <span class="blue">kompasu</span>, aby sprawdzić swoją lokalizację.
-
-![image](/pages/images/location/location_2.webp)
+## Lokalizacja
+> <span class="blue">Kompas</span> podczas trzymania w ręce pokazuje twoją aktualną lokalizacje. <br> Wpisz komendę **/namierz [x] [z]** aby ustawić lokalizacje która wskazuję kompas, ułatwia to podróżowanie. 
+ 
+![image](/pages/images/location/compass.webp)
 
 > Użyj <span class="blue">kompasu powrotnego</span>, aby sprawdzić lokalizację twojej śmierci.
 
-![image](/pages/images/location/location_3.webp)
+![image](/pages/images/location/rcompass.webp)
 
 
-## Zegarek
+## Czas
+Na serwerze istnieje możliwość pominięcia nocy. Aby to zrobić, w jej trakcie w łóżku musi przebywać jednocześnie **35%** graczy.
+
+
 > Użyj <span class="blue">zegarka</span>, aby sprawdzić aktualną godzinę na serwerze.
 
-![image](/pages/images/location/location_4.webp)
+![image](/pages/images/location/clock.webp)
+
