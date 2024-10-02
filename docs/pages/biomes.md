@@ -30,8 +30,8 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ## Alpine Grove
 <p>Alpejski Gaj (ang. Alpine Grove)</p>
-<img src="https://github.com/user-attachments/assets/1bfcc866-bd59-4d6c-8a07-87ab710d5b6d" width="400px">
 
+![image](/pages/images/biomes/alpine_grove_2.webp)
 
 ## Alphine Highlands
 <p>Alpejskie Wyżyny (ang. Alphine Highlands)</p>
@@ -41,87 +41,102 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ## Amethyst Canyon
 <p>Ametystowy Kanion (ang. Amethyst Canyon)</p>
-<img src="https://github.com/user-attachments/assets/b0db4f36-72ee-4935-a522-f77231573d26" width="400px">
+
+![image](/pages/images/biomes/amethyst_canyon.webp)
 
 
 ## Amethyst Rainforest
 <p>Ametystowe lasy deszczowe (ang. Amethyst Rainforest)</p>
-<img src="https://github.com/user-attachments/assets/2976540e-f963-4d7e-819a-ea3fdbb7f3f0" width="400px">
+
+![image](/pages/images/biomes/amethyst_rainforest.webp)
 
 
 ## Ancient Sands
 <p>Antyczne piaski (ang. Ancient Sands)</p>
-<img src="https://github.com/user-attachments/assets/7593baa5-99f5-4932-a372-be5d78d60682" width="400px">
+
+![image](/pages/images/biomes/ancient_sands.webp)
 
 
 ## Arid Highlands
 <p>Suche wyżyny (ang. Arid Highlands)</p>
-<img src="https://github.com/user-attachments/assets/cc1fab3a-b75e-4a4d-a08b-940704d923e4" width="400px">
+
+![image](/pages/images/biomes/arid_highland.webp)
 
 
 ## Ashen Savanna
 <p>Sawanna popiołu (ang. Ashen Savanna)</p>
-<img src="https://github.com/user-attachments/assets/a4eecd35-1ddd-4ea7-89a1-638822f7cf82" width="400px">
+
+![image](/pages/images/biomes/ashen_savanna.webp)
 
 
 ## Basalt Cliffs
 <p>Bazaltowe klify (ang. Basalt Cliffs)</p>
-<img src="https://github.com/user-attachments/assets/c19289a3-7c0b-407a-a06b-1b9c4ce70ecb" width="400px">
+
+![image](/pages/images/biomes/basalt_cliffs.webp)
 
 
 ## Birch Taiga
 <p>Brzozowa tajga (ang. Birch Taiga)</p>
-<img src="https://github.com/user-attachments/assets/65f26723-dcdb-4d45-8658-fab90aef47a9" width="400px">
+
+![image](/pages/images/biomes/brich_taiga.webp)
 
 
 ## Blooming Plateau
 <p>Kwitnący płaskowyż (ang. Blooming Plateau)</p>
-<img src="https://github.com/user-attachments/assets/235471c3-8fa7-4214-975c-5969f674681e" width="400px">
+
+![image](/pages/images/biomes/blooming_plateau.webp)
 
 
 ## Blooming Valley
 <p>Kwitnąca Dolina (ang. Blooming Valley)</p>
-<img src="https://github.com/user-attachments/assets/8893f0ed-9a8c-4354-95af-2f39317cc7b3" width="400px">
+
+![image](/pages/images/biomes/blooming_valley.webp)
 
 
 ## Brushland
 <p>Zarośla (ang. Brushland)</p>
-<img src="https://github.com/user-attachments/assets/26ac79fa-6fb8-4d76-82da-6c3cb5e3c7ea" width="400px">
+
+![image](/pages/images/biomes/brushland.webp)
 
 
 ## Bryce Canyon
 <p>Kanion Bryce (ang. Bryce Canyon)</p>
-<img src="https://github.com/user-attachments/assets/4b57b151-63f4-4c1a-9a9f-870220fdb598" width="400px">
+
+![image](/pages/images/biomes/bryce_canyon.webp)
 
 
 ## Caldera
 <p>Caldera</p>
-<img src="https://github.com/user-attachments/assets/b417c7a1-6dfb-4397-80ad-eccab6d97d53" width="400px">
+
+![image](/pages/images/biomes/caldera.webp)
 
 
 ## Cloud Forest
 <p>Chmurzysty Las (ang. Cloud Forest)</p>
-<img src="https://github.com/user-attachments/assets/0b005f36-7c8d-4133-9da3-09b3bd0dc0bf" width="400px">
+
+![image](/pages/images/biomes/cloud_forest.webp)
 
 
 ## Cold Shrubland
 <p>Pustynne Zarośla (ang. Desert Shrubland)</p>
-<img src="https://github.com/user-attachments/assets/bb07e108-26a4-486d-9b1c-7a0466b0add3" width="400px">
+
+![image](/pages/images/biomes/desert_shrubland.webp)
 
 
 ## Desert Canyon
 <p>Pustynny Kanion (ang. Desert Canyon)</p>
-<img src="https://github.com/user-attachments/assets/a2045f8e-0064-46b7-870f-00d49933f3e6" width="400px">
+
+![image](/pages/images/biomes/desert_canyon.webp)
 
 
 ## Desert Oasis
 <p>Pustynna oaza (ang. Desert Oasis)</p>
-<img src="https://github.com/user-attachments/assets/46394af4-486b-4b82-8018-b3571029f181" width="400px">
 
+![image](/pages/images/biomes/desert_oasis.webp)
 
 ## Desert Spires
 <p>Pustynne Iglice (ang. Desert Spires)</p>
-<img src="https://github.com/user-attachments/assets/46394af4-486b-4b82-8018-b3571029f181" width="400px">
+<!-- <img src="https://github.com/user-attachments/assets/46394af4-486b-4b82-8018-b3571029f181" width="400px"> -->
 
 
 ## Emerald Peaks
