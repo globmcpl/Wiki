@@ -1,14 +1,13 @@
 <style>
     #theme {
         color: var(--base-color)
+        margin-left: 10px;
+        font-size: 17px; 
     }
     #theme:hover {
         cursor: pointer;
-    }
-    #theme {
-        margin-left: 10px;
+        color: var(--theme-color);
     }
 </style>
 
-- <a href="https://globmc.pl/">STRONA GŁÓWNA</a>
-- <a href="#/update">AKTUALIZACJE</a>
+- <a id= "theme" href="https://globmc.pl/">STRONA GŁÓWNA</a>
