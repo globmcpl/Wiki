@@ -11,8 +11,6 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na serwerze<br> Na naszym serwerze znajdziesz wiele innowacyjnych mechanik, które zostały starannie zaprojektowane, aby idealnie wpasować się w świat minecrafta. <br>Miłej zabawy!
 
-<span class="red">Uwaga!</span> Serwer jest aktualnie podczas **BETA** testów. Niektóre mechaniki mogą nie działać lub być zbugowane. Staramy sie na bieżąco naprawiać błędy. <br> Wszystkie błedy prosimy zgłaszać na discordzie za pomocą ticketów.
-
 
 ### Zawartość
 - 🗺️ [Generator](/generator) - Nowy generator terenu i struktury.
