@@ -15,4 +15,3 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ![image](/pages/images/playersize/playersize.webp)
 
-

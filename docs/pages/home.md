@@ -24,3 +24,6 @@ Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na
 - ⛏️ [Jedwabny Dotyk](/silktouch) - Ulepszona mechanika jedwabnego dotyku.
 - 🪓 [Wycinka Drzew](/treecut) - Nowa mechanika ścinania drzew.
 - 🕰️ [Odłamki Czasu](/timeshard) - Waluta otrzymywana za czas spędzony na serwerze.
+- 💸 [Inflacja](/inflation) - Mechanika zmian cen w sklepie.
+- 🤖 [System Sortowania](/sortingsystem) - Uproszczone sortowanie przedmiotów w skrzynkach.
+- 🐟 [Łowienie Ryb](/fishing) - Nowa mechanika łowienia ryb
