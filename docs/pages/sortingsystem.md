@@ -11,7 +11,7 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 > Aby uniknąć konieczności tworzenia skomplikowanych systemów sortowania, nasz serwer wykorzystuje unikalną mechanikę, która znacząco upraszcza cały proces.
 
 ## Jak To Dziala
-> Aby skorzystać z systemu, należy połączyć hopery zgodnie ze schematem przedstawionym na zdjęciu poniżej. Jeśli chcemy, aby przedmioty przechodzące przez hopery trafiały do konkretnej skrzynki, musimy umieścić pod danym hoperem baryłkę z jedną sztuką przedmiotu, który chcemy sortować. Na przykład, aby do skrzynki przy hoperze trafiały wyłącznie diamenty, wystarczy umieścić w baryłce 1 diament. <span class="red">Uwaga: prawidłowe ustawienie hoperów ma kluczowe znaczenie!</span>.
+> Aby skorzystać z systemu, należy połączyć hopery zgodnie ze schematem przedstawionym na zdjęciu poniżej. Jeśli chcemy, aby przedmioty przechodzące przez hopery trafiały do konkretnej skrzynki, musimy umieścić pod danym hoperem baryłkę z jedną sztuką przedmiotu, który chcemy sortować. Na przykład, aby do skrzynki przy hoperze trafiały wyłącznie diamenty, wystarczy umieścić w baryłce 1 diament. <span class="red">Uwaga: prawidłowe ustawienie hoperów i baryłek ma kluczowe znaczenie!</span>.
 
 ![image](/pages/images/sorting/sort.png)
 
