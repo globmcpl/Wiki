@@ -13,3 +13,4 @@
 - [Wycinka Drzew](/treecut.md)
 - [Odłamki Czasu](/timeshard.md)
 - [Łowienie Ryb](/fishing.md)
+- [Działki](/plot.md)

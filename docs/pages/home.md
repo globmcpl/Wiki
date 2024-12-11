@@ -27,3 +27,4 @@ Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na
 - 💸 [Inflacja](/inflation) - Mechanika zmian cen w sklepie.
 - 🤖 [System Sortowania](/sortingsystem) - Uproszczone sortowanie przedmiotów w skrzynkach.
 - 🐟 [Łowienie Ryb](/fishing) - Nowa mechanika łowienia ryb
+- 🏠 [Działki](/plot) - Działki na serwerze
