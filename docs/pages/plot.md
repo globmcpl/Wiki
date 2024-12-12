@@ -68,4 +68,4 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 | Ranga |GRACZ| VIP | VIP+ | SVIP | MVIP |
 --- | --- | --- | --- | --- | --- |
-Liczba działek | 1 | 2 | 3 | 5 | 5 |
+Liczba działek | 1 | 1 | 2 | 2 | 2 |
