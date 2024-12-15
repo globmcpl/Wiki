@@ -14,12 +14,12 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 Nazwa | Opis  | Max poziom | Dotyczy | Niekompatybilne | Jak zdobyć | 
 --- | --- | --- |--- | --- | --- |
-Blindness Splash |  Strzały po wylądowaniu tworzą chmurę powodującą efekt oślepienia. |  1 | Łuk, kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handel z villagerami
-Levitation Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt lewitacji. |  1 | Łuk, kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
-Poison Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt trucizny. |  1 | Łuk, kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
-Regeneration Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt regeneracji. | 1 | Łuk, kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
-Weakness Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt osłabenia. | 1 | Łuk, kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
-Wither Splash|  Strzały po wylądowaniu tworzą chmurę powodującą efekt obumarcia . | 1 | Łuk, kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
+Blindness Splash |  Strzały po wylądowaniu tworzą chmurę powodującą efekt oślepienia. |  1 | Kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handel z villagerami
+Levitation Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt lewitacji. |  1 | Kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
+Poison Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt trucizny. |  1 | Kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
+Regeneration Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt regeneracji. | 1 | Kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
+Weakness Splash| Strzały po wylądowaniu tworzą chmurę powodującą efekt osłabenia. | 1 | Kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
+Wither Splash|  Strzały po wylądowaniu tworzą chmurę powodującą efekt obumarcia. | 1 | Kusza |  Infinity, Evokers Wrath,  Lightning Bolt, Inny enchant typu Splash | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
 Nether Protection | Dwukrotnie większa ochrona przed obrażeniami niż w przypadku zaklęcia ochrona, ale działa tylko w netherze. | 4 | Dowolny pancerz |  Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection|  	 Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection | Stół do zaklinania, na przedmiotach z mobów, na losowych łupach, handler z villagerami
 End Protection |  Dwukrotnie większa ochrona przed obrażeniami niż w przypadku zaklęcia ochrona, ale działa tylko w endzie. | 4 | Dowolny pancerz |  Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection|   Nether Protection, End Protection, Red Moon, Protection, Fire Protection, Blast Protection, Projectile Protection | Stół do zaklinania, na losowych łupach, ze skarbów
 Fire Alloy | Zapala atakującego. | 3 | Napierśniki | Fire Alloy, Shulker Shell| Stół do zaklinania, na losowych łupach, Ze skarbów |
@@ -47,7 +47,6 @@ Safe Landing | Zwiększa bezpieczną wysokość lądowania. | 5 | Elytra | - | N
 Scholar of Blocks | Więcej doświadczenia z bloków wydobywczych. | 3 | Dowolne narzędzie | Scholar of Mobs | Non Treasure |
 Scholar of Mobs| Więcej doświadczenia z zabijania mobów. | 3 | Dowolna broń | Scholar of Blocks | Non Treasure |
 Rejuvenation | Zwiększa maksymalne zdrowie. | 5 | Tarcze | 	Crispbread, Cleansing, Hardened | Ze skarbów |
-Bedrocker | Po trafieniu zamienia skałę macierzystą we wzmocnioną płytę głębinową. | 1 | Netherytowy kilof | - | Ze skarbów |
 Seeker |  Podświetla przedmioty w promieniu 4-12 bloków, w zależności od poziomu. | 3 | Hełmy | - | Ze skarbów |
 Sea Breeze|  Pociski wiatru trafiają cel po trafieniu rzuconym trójzębem. | 3 | Trójząb | Riptide, Channeling, Switch, Ominous Rain | Ze skarbów |
 Boltbringer | Przywołuje błyskawicę, gdy istota została trafiona przez gracza, który spadł co najmniej 8 bloków. | 1 | Maczuga | - | Ze skarbów |

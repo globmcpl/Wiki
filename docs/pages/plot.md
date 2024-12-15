@@ -63,9 +63,18 @@ img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
 
 ![image](/pages/images/plot/plot_more_toknes.png)
 
+# Liczba członków - max ulepszenie
+>Liczba definujaca maksymalne ulepszenie ilości członków na działce.
+
+| Ranga |GRACZ| VIP | VIP+ | SVIP | MVIP |
+--- | --- | --- | --- | --- | --- |
+Liczba działek | 5 | 5 | 10 | 10 | 10 |
+
 # Liczba działek
 >Liczba działek jaką możemy załozyć jest zależna od posiadanej przez nas rangi. Poniższa tabela opisuje ile działek przypada dla osoby z daną rangą
 
 | Ranga |GRACZ| VIP | VIP+ | SVIP | MVIP |
 --- | --- | --- | --- | --- | --- |
 Liczba działek | 1 | 1 | 2 | 2 | 2 |
+
+
