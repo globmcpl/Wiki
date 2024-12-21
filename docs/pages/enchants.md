@@ -69,4 +69,5 @@ Curse of Breeze| Odrzuca gracza gdy atakuje cel. | 1 | Miecze | - | On Mob Spawn
 Curse of Crank | Zadaje obrażenia noszącemu, gdy się nie porusza. | 1 | Dowolny pancerz | - | On Mob Spawn Equipment, na losowych łupach, Ze skarbów |
 Lightning Bolt | Uderza błyskawicą w trafiony cel. | 1 | Łuk, Kusza |   	Infinity, Evokers Wrath,  Sting, Inny enchant typu Splash | On Traded Equipment, handel z villagerami |
 Replenish| 50% szansy na niezużycie strzały. | 1 | Łuk, Kusza | Infinity | Non Treasure |
+Evokers Wrath| Strzała po trafieniu przywołuję kły evokera pod celem. | 1 | Kusza  |  	Quick Charge, Infinity, Sting, Glass Breaker, Lightning Bolt, Forge Shot, Ender Shot, Any Splash Enchantment, Flare | Non Treasure |
 
