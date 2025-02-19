@@ -16,12 +16,17 @@
     --sidebar-toggle-background: rgba(5, 5, 5, 0);
     --sidebar-toggle-offset-top: 20px;
     --sidebar-toggle-offset-left: 15px;
+    --sidebar-width: 325px;
     /* NAVBAR */
     --navbar-root-margin: 0 0 0 1.6em;
 }
 
+.sidebar-nav {
+    font-size: 15px !important; 
+}
+
 .app-name {
-    padding-bottom: 0.6em !important;
+    padding-bottom: 0.5em !important;
     border-bottom: var(--hr-border)
 }
 
