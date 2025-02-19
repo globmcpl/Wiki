@@ -1,0 +1,31 @@
+<style>
+img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
+    max-width: 550px; /* Maksymalna szerokość */
+    max-height: 500px; /* Maksymalna wysokość */
+    width: auto; /* Automatyczna szerokość */
+    height: auto; /* Automatyczna wysokość */
+    object-fit: contain; /* Dopasowanie bez przycinania */
+    margin: 0 8px 4px 0;
+    box-shadow: 0 0 6px 4px rgba(0, 0, 0, .1);
+    border-radius: 10px;
+}
+</style>
+
+# Strefa relaksu
+
+> **Strefa relaksu** to miejsce, do którego trafiają osoby, których system wykrył jako AFK. W tej strefie możesz odpocząć od gry i posiedzieć w bezpiecznej strefie.
+
+![image](/pages/images/relaxzone/relaxzone-2.webp)
+
+
+## Klucze relaksu
+
+Masz szansę na zdobycie **klucza relaksu**, jeśli spędzisz w strefie relaksu 10 min. Co 10 min. masz 30% szans na zdobycie klucza relaksu. 🎖️ [Rangi premium](/ranks) posiadają 50% szans na zdobycie klucza.
+
+![image](/pages/images/relaxzone/relaxzone-1.webp)
+
+## Wyzwanie Parkour
+
+Jedną z atrakcji w strefie relaksu jest **wyzwanie parkour**. Parkour jest nieskończony, a za każdy udany skok otrzymujesz 1 punkt. Upadek z bloku kończy wyzwanie.
+
+![image](/pages/images/relaxzone/relaxzone-parkour.gif)

@@ -1,0 +1,27 @@
+<style>
+img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
+    max-width: 750px; /* Maksymalna szerokość */
+    max-height: 500px; /* Maksymalna wysokość */
+    width: auto; /* Automatyczna szerokość */
+    height: auto; /* Automatyczna wysokość */
+    object-fit: contain; /* Dopasowanie bez przycinania */
+    margin: 0 8px 4px 0;
+    box-shadow: 0 0 6px 4px rgba(0, 0, 0, .1);
+    border-radius: 10px;
+}
+</style>
+
+# Nasiona
+
+> Na serwerze dodaliśmy nowe nasiona i rośliny, dzięki którym możesz tworzyć unikalne hodowle i farmy. Lista wszystkich roślin i nasion oraz ich sposoby zdobycia znajdują się pod komendą **/crafting**. Po najechaniu na **diamentowy kilof** przy recepturze nasiona możesz sprawdzić, z jakiego bloku możesz tę roślinę wydobyć.
+
+![image](/pages/images/seeds/seeds-1.webp)
+![image](/pages/images/seeds/seeds-2.webp)
+
+
+## Wygląd roślin
+
+Poniższe zdjęcie przedstawia wybrane rośliny oraz ich wygląd.
+
+![image](/pages/images/seeds/seeds-3.webp)
+

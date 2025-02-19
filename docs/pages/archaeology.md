@@ -1,0 +1,36 @@
+<style>
+img:not(.medium-zoom-image--opened):not(.navbar-link-icon) {
+    max-width: 750px; /* Maksymalna szerokość */
+    max-height: 500px; /* Maksymalna wysokość */
+    width: auto; /* Automatyczna szerokość */
+    height: auto; /* Automatyczna wysokość */
+    object-fit: contain; /* Dopasowanie bez przycinania */
+    margin: 0 8px 4px 0;
+    box-shadow: 0 0 6px 4px rgba(0, 0, 0, .1);
+    border-radius: 10px;
+}
+</style>
+
+# Archeologia
+
+> Podczas kopania kamienia masz szansę na wydobycie **skamieliny** (0.3% szansy). Więcej informacji znajduje się pod komendą **/crafting**.
+
+## Stół archeologiczny
+
+#### Receptura stołu archeologicznego
+
+Poniżej znajduje się receptura na stół archeologiczny.
+
+![image](/pages/images/archaeology/archaeology-3.webp)
+
+#### Zastosowanie stołu archeologicznego
+
+Dzięki stołowi archeologicznemu możesz wymieniać rudy surowców na skamieliny.
+
+![image](/pages/images/archaeology/archaeology-1.webp)
+
+## Zastosowanie skamielin
+
+Skamieliny są potrzebne do dalszych receptur, takich jak tworzenie plastiku. Plastik jest jednym ze składników receptur nowych 🔨 [narzędzi](/tools).
+
+![image](/pages/images/archaeology/archaeology-2.webp)
