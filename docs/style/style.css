@@ -5,24 +5,38 @@
     --theme-color: #28bae7;
     /* BASE PROPERTIES */
     --base-font-family: 'Inter', sans-serif;
-    --base-background-color: #1a1919;
+    --base-background-color: #19191a;
     /* CONTENT */
     --content-max-width: 84em;
     /* LINKS */
     --link-color: #2584c4;
     /* SIDEBAR */
-    --sidebar-background: rgba(70, 70, 70, 0.05);
+    --sidebar-background: rgba(15, 15, 15, 0.219);
+    /* --sidebar-background: rgba(70, 70, 70, 0.05); */
     /* SIDEBAR TOGGLE BUTTON */
-    --sidebar-toggle-background: rgba(5, 5, 5, 0);
+    --sidebar-nav-pagelink-background: none;
+    --sidebar-toggle-background: rgba(8, 8, 8, 0);
     --sidebar-toggle-offset-top: 20px;
-    --sidebar-toggle-offset-left: 15px;
-    --sidebar-width: 325px;
+    --sidebar-toggle-offset-left: 14px;
+    --sidebar-width: 324px;
     /* NAVBAR */
     --navbar-root-margin: 0 0 0 1.6em;
+    /* BASE STYLES */
+}
+.nav-title{
+    font-size: 16.6px;
+    font-weight: bold;
+    color: #78aac7;
+    margin-left: 10px;
+    margin-top: 7px;
 }
 
+.d-icon{
+    vertical-align: middle; 
+    margin-right: 6px; 
+}
 .sidebar-nav {
-    font-size: 15px !important; 
+    font-size: 14.7px !important; 
 }
 
 .app-name {
@@ -31,9 +45,9 @@
 }
 
 .app-name-link {
-    font-size: 26px;
+    font-size: 23px;
     font-weight: bold;
-    letter-spacing: 1px;
+    letter-spacing: 1.6px;
 }
 
 /* IMG STYLING */
