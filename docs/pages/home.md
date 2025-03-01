@@ -39,6 +39,7 @@ Wikipedia powstała, aby ułatwić nowym graczom rozpoczęcie swojej przygody na
 - 🪓 [Wycinka Drzew](/treecut) - Nowa mechanika ścinania drzew.
 - 🎯 [Zadania dzienne](/dailyquests) - Codzienne wyzwania dla graczy.
 - 💍 [Śluby](/marriage) - Możliwość zawierania ślubów między graczami.
+- 🚫 [Limity](/limits) - Limity ilości mobów na chunk.
 
 ## **Craftingi**
 

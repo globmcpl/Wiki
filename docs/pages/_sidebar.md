@@ -30,6 +30,7 @@
 - [<i class="bi bi-tree d-icon"></i>Wycinka Drzew](/treecut.md)
 - [<i class="bi bi-crosshair2 d-icon"></i>Zadania dzienne](/dailyquests.md)
 - [<i class="bi bi-arrow-through-heart d-icon"></i>Śluby](/marriage.md)
+- [<i class="bi bi-archive-fill d-icon"></i>Limity](/limits.md)
 
 <div class="nav-title">Craftingi</div>
 
